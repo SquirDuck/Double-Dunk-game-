@@ -1,1 +1,1 @@
-pip install pygame-ce
+pip install gymnasium pygame stable-baselines3 numpy shimmy
